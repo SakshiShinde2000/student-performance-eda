@@ -1,0 +1,11 @@
+,gender,race/ethnicity,parental level of education,math score,reading score,writing score,total,avg
+0,female,group B,bachelor's degree,72,72,74,218,72.66666666666667
+1,male,group C,some college,69,90,88,247,82.33333333333333
+2,female,group B,master's degree,90,95,93,278,92.66666666666667
+3,male,group A,associate's degree,47,57,44,148,49.333333333333336
+4,female,group C,some college,76,78,75,229,76.33333333333333
+5,male,group B,associate's degree,71,83,78,232,77.33333333333333
+6,female,group A,high school,60,64,66,190,63.333333333333336
+7,male,group C,bachelor's degree,88,89,86,263,87.66666666666667
+8,female,group B,some college,59,60,62,181,60.333333333333336
+9,male,group D,high school,40,52,43,135,45.0
